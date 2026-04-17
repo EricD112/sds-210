@@ -1,0 +1,12 @@
+{
+	"python.defaultInterpreterPath": "python",
+	"python.createEnvironment.contentButton": "show",
+	"editor.detectIndentation": false,
+	"python-envs.pythonProjects": [
+		{
+			"path": ".",
+			"envManager": "ms-python.python:conda",
+			"packageManager": "ms-python.python:conda"
+		}
+	]
+}
