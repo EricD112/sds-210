@@ -8,6 +8,8 @@
 # Custom folder icons
 Icon
 
+# Data
+**/raw/
 
 # Volume root files
 .DocumentRevisions-V100
