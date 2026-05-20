@@ -9,7 +9,7 @@
 Icon
 
 # Data
-**/raw/
+#**/raw/
 
 # Volume root files
 .DocumentRevisions-V100
